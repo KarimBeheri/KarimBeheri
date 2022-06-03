@@ -47,5 +47,8 @@ Fast learner, hard worker.
 [![icons8-linkedin-48](https://user-images.githubusercontent.com/106775514/171871365-e2ebaa95-3139-438e-864b-c9489fffccdd.png)](https://www.linkedin.com/in/karim-behery-232340232/)
 [![icons8-gmail-48](https://user-images.githubusercontent.com/106775514/171871654-cf08b231-1ce5-4857-8e90-55f9f63cc49a.png)](https://mail.google.com/mail/u/0/#inbox)
 
+### 🏆 Github Trophies:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KarimBeheri&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ⭐️ From [@Karim Beheri](https://github.com/KarimBeheri)
