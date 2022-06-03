@@ -11,7 +11,7 @@
 
 <div>
  <p>
-I am a junior software engineer, passionate to try new things
+- I am a junior software engineer, passionate to try new things
 Fast learner, hard worker.
 
 </p>
