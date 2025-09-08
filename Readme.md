@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋 I'm [Karim Beheri](https://www.linkedin.com/in/karim-behery-232340232/)
-> CS Student at FCIS [ASU](https://ums.asu.edu.eg/App?redirectUrl=https%3A%2F%2Fums.asu.edu.eg%2F)
+> CS graduate from FCIS [ASU](https://ums.asu.edu.eg/App?redirectUrl=https%3A%2F%2Fums.asu.edu.eg%2F)
 
 
 <img src="https://komarev.com/ghpvc/?username=KarimBeheri" alt="KarimBeheri" />
